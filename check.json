@@ -1,0 +1,16 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "open_shape": [
+      0,
+      4,
+      7
+    ],
+    "capos": [
+      2
+    ]
+  }
+}
